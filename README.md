@@ -1,3 +1,5 @@
+[![downloads](https://img.shields.io/github/downloads/arian-shamaei/silly-catui/total)](https://github.com/arian-shamaei/silly-catui/releases)
+
 Meow meow meow meow meow meow meow meow meow meow meow? silly-catui meow meow meow meow sillycat meow meow meow.  Meow meow meow meow meow meow meow meow sillyness meow 10x!
 
 **Build and install**
